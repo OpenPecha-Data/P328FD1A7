@@ -1,0 +1,30 @@
+id: fe5fd8920a2d4cc59e6ce771a9bea974
+annotation_type: index
+revision: '00001'
+annotations:
+  fd99b5a1685f425c8b0adc0641a7fe91:
+    work_id: GM1
+    parts:
+      8fc1d860340f4d4b8748e9393aad028f:
+        work_id: GM1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 15644
+    span:
+    - vol: 1
+      start: 0
+      end: 15644
+  a388450e21644e328d2ef5d57e4d0f83:
+    work_id: GM27
+    parts:
+      8bb832d5689d4f88bcbf2fdfaf6ae22b:
+        work_id: GM27-2
+        span:
+        - vol: 2
+          start: 0
+          end: 25563
+    span:
+    - vol: 2
+      start: 0
+      end: 25563
